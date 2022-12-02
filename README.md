@@ -6,5 +6,4 @@ Drivers:\
 &emsp;NI-DAQmx\
 &emsp;NI-IMAQ\
 &emsp;NI-IMAQdx\
-&emsp;NI-IMAQ I/O\
-&emsp;Vision Acquisition Software
+&emsp;NI-IMAQ I/O

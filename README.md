@@ -1,4 +1,4 @@
-# Labview
+# Labview - DIC DAQ
 
 Software Version: Labview 2020 SP1
 

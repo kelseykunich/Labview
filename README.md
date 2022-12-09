@@ -8,4 +8,4 @@ Drivers:\
 &emsp;NI-IMAQdx\
 &emsp;NI-IMAQ I/O\
 &emsp;Vision Common Resourcesx\
-&emsp;Vision Development Module\
+&emsp;Vision Development Module
